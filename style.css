@@ -1,0 +1,37 @@
+body {
+    background: darkgreen;
+    font-family: sans-serif
+  }
+  p {
+    color: deepskyblue;
+    font-family: monospace;
+  }
+  
+  h2 {
+    color: orange;
+    text-decoration: underline;
+    text-align: center;
+  }
+  
+  h1 {
+    font-weight: bold;
+    color: red;
+  }
+  
+  .morb{
+    display: block;
+    color: black;
+    font-family: serif;
+  }
+  
+  .blue {
+    color: deepskyblue;
+    text-align: center;
+  }
+  
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
